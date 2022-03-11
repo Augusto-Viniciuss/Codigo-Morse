@@ -35,6 +35,6 @@
 ## Simulação
 
 <div>
-  Clique na imagem para ir para a simulação do projeto.<br><br>
+  Simulação do <a href="https://www.tinkercad.com/embed/eBDUr8gexGj?editbtn=1">Código Morse</a>.<br><br>
   <a href="https://www.tinkercad.com/embed/eBDUr8gexGj?editbtn=1"><img src="https://github.com/Augusto-Viniciuss/Codigo-Morse/blob/main/imgs/imagem%20do%20hardware.png"</a>
 </div>
