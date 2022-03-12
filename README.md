@@ -14,6 +14,17 @@
 
 <img src="https://github.com/Augusto-Viniciuss/Codigo-Morse/blob/main/imgs/imagem%20da%20box%20morse.png">
 
+## Funcionamento
+
+<div text-align="justify">
+    <p>
+        Se estiver a noite a box morse irá emitir as letras escolhidas com o controle através 
+        de sons usando o buzzer e por luz usando o led, porem se estiver de dia as letras serão 
+        emitidas apenas por som para economizar energia, pois de dia o led não seria forte o 
+        suficiente, então não faria sentido acendê-lo.
+    </p>
+</div>
+
 ## Componentes do hardware
 
 |Qnt	|Nome                                           |      
