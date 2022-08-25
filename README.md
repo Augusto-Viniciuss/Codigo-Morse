@@ -1,8 +1,8 @@
-# Código Morse
+# Morse Box
 
 <div text-align="justify">
     <P>
-      Código morse é um projeto onde com um controle remoto com a tecnologia infravermelho pode-se selecionar com os botões qual letra quer que a caixa emita em codigo morse atraves de sons e luz.
+      Morse Box é um projeto onde com um controle remoto com a tecnologia infravermelho pode-se selecionar com os botões qual letra quer que a caixa emita em codigo morse atraves de sons e luz.
 
   
   Observação Por ter sido usado a plataforma tinkercad para desenvolver o projeto temos uma 
